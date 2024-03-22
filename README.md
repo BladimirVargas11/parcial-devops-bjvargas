@@ -3,6 +3,8 @@
 
 ¡Hola Mundo!, para correr este app en una imagen de docker, sigue estos pasos:
 
+> Primero ubica la terminal en tu proyecto, Luego
+
 ng build
 
 docker build -t parcial-devops-blvargas .
@@ -17,4 +19,4 @@ abre tu navegador con la ruta:
 localhost:80
 
 Recuerda limpiar el caché :D
->>>>>>> master
+
