@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # parcial-devops
-=======
+
 ¡Hola Mundo!, para correr este app en una imagen de docker, sigue estos pasos:
 
 ng build
